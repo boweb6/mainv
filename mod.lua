@@ -1,5 +1,4 @@
 MODS = {
-    [328858398] = true; -- boweb
     [62639400] = true; 
     [1145907268] = true; 
     [1241129792] = true; 
@@ -74,7 +73,7 @@ MODS = {
 }
 
 ADMIN = {
-    [0] = true; -- boweb
+    [328858398] = true; -- boweb
     [324778090] = true; -- tyler
     [3171845222] = true; -- crown emoji buyer
     [1821130276] = true; -- crown emoji buyer
